@@ -4,8 +4,7 @@ email: taeyoon@sfpc.io
 description: > # Collaboration and correspondence between Christine Sun Kim and Taeyoon Choi
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://absencepresence.org" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+ 
 
 # Build settings
 markdown: kramdown
