@@ -5,9 +5,22 @@
     <description></description>
     <link>http://absencepresence.org/</link>
     <atom:link href="http://absencepresence.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2015 13:21:59 -0400</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 13:21:59 -0400</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 11:10:11 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 11:10:11 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>how to connect! </title>
+        <description>&lt;p&gt;Contents go here&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jun 2015 06:30:24 -0400</pubDate>
+        <link>http://absencepresence.org/info/2015/06/06/welcome-to-jekyll%20copy%202.html</link>
+        <guid isPermaLink="true">http://absencepresence.org/info/2015/06/06/welcome-to-jekyll%20copy%202.html</guid>
+        
+        
+        <category>info</category>
+        
+      </item>
     
       <item>
         <title>how to connect! </title>
@@ -29,6 +42,20 @@
         <pubDate>Sat, 06 Jun 2015 06:30:24 -0400</pubDate>
         <link>http://absencepresence.org/info/2015/06/06/Ohwell.html</link>
         <guid isPermaLink="true">http://absencepresence.org/info/2015/06/06/Ohwell.html</guid>
+        
+        
+        <category>info</category>
+        
+      </item>
+    
+      <item>
+        <title>Selfie Stick Pictures from Beijing </title>
+        <description>&lt;p&gt;Christine sent a bunch of pictures playing with selfie sticks in Beijing. &lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Jun 2015 06:30:24 -0400</pubDate>
+        <link>http://absencepresence.org/info/2015/06/03/Ohwell%20copy.html</link>
+        <guid isPermaLink="true">http://absencepresence.org/info/2015/06/03/Ohwell%20copy.html</guid>
         
         
         <category>info</category>
