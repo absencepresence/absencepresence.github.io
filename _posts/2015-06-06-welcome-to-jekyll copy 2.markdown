@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metronome Hacking "
-date:   2015-06-020 10:30:24
+date:   2015-06-20 10:30:24
 categories: Info
 ---
  

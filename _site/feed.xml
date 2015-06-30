@@ -5,17 +5,17 @@
     <description></description>
     <link>http://absencepresence.org/</link>
     <atom:link href="http://absencepresence.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jun 2015 11:10:11 -0400</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 11:10:11 -0400</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 11:16:32 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 11:16:32 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>how to connect! </title>
-        <description>&lt;p&gt;Contents go here&lt;/p&gt;
+        <title>Metronome Hacking </title>
+        <description>&lt;p&gt;How to hack metronomes.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 Jun 2015 06:30:24 -0400</pubDate>
-        <link>http://absencepresence.org/info/2015/06/06/welcome-to-jekyll%20copy%202.html</link>
-        <guid isPermaLink="true">http://absencepresence.org/info/2015/06/06/welcome-to-jekyll%20copy%202.html</guid>
+        <pubDate>Sat, 20 Jun 2015 06:30:24 -0400</pubDate>
+        <link>http://absencepresence.org/info/2015/06/20/welcome-to-jekyll%20copy%202.html</link>
+        <guid isPermaLink="true">http://absencepresence.org/info/2015/06/20/welcome-to-jekyll%20copy%202.html</guid>
         
         
         <category>info</category>
